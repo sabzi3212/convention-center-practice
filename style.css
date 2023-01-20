@@ -1,0 +1,27 @@
+/* .container{
+    background-image: url(./images/banner.png);
+} */
+/* .banner{
+    background-image: url(./images/banner.png);
+} */
+
+.middle-container{
+    margin-top: 20px;
+}
+.package-title{
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.service-title{
+    margin-bottom: 10px;
+}
+.d-flex{
+    gap: 25px;
+}
+.client-image{
+    text-align: center;
+}
+.footer-text{
+    color: #ffff;
+}
